@@ -1,0 +1,11 @@
+@import url("https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+	font-family: "Space Grotesk", "IBM Plex Sans", sans-serif;
+	background: linear-gradient(160deg, #fef3c7 0%, #ffffff 45%, #ffedd5 100%);
+	color: #0f172a;
+}
